@@ -1,7 +1,6 @@
-# grocy
-Grocy - Administración del hogar - Docker-compose
+# Grocy
 
-Ver en "Localhost:8200"
+Ver en "http://localhost:8200"
 
 Usuadrio: admin
 Contraseña: admin
