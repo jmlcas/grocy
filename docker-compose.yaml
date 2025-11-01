@@ -1,9 +1,7 @@
-version: "3.3"
-
 services:
 
   grocy:
-    image: lscr.io/linuxserver/grocy
+    image: lscr.io/linuxserver/grocy:latest
     container_name: grocy
     environment:
       - PUID=1000
@@ -14,4 +12,5 @@ services:
     ports:
       - "8200:80"
     restart: unless-stopped
+
     
