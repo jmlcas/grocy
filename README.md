@@ -2,7 +2,7 @@
 
 Ver en "http://localhost:8200"
 
-Usuadrio: admin
+Usuario: admin
 
 Contraseña: admin
 
